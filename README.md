@@ -8,8 +8,8 @@
 
 ## Collection
 
-### Dictionary of Literary Descriptors in SKOS format
+### Dictionary of National Library Descriptors in SKOS format
 
-The set of literary terms consists of 1 057 concepts.
+
 
 ![alt_text](https://github.com/CHC-Computations/Harmonize/blob/main/Zrzut%20ekranu%202022-12-19%20o%2017.48.49.png?raw=true)
