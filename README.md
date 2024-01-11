@@ -1,5 +1,5 @@
 ![alt text](https://github.com/CHC-Computations/Harmonize/blob/main/logo-1.png?raw=true)
-# BN-LIT-SKOS 
+# BN-SKOS 
 ![alt text](https://github.com/CHC-Computations/BN-LIT-SKOS/blob/main/vocabs.svg?raw=true)
 ## Contributors
 
