@@ -1,6 +1,6 @@
 ![alt text](https://github.com/CHC-Computations/Harmonize/blob/main/logo-1.png?raw=true)
 # BN-SKOS 
-![alt text](https://github.com/CHC-Computations/BN-LIT-SKOS/blob/main/vocabs.svg?raw=true)
+![alt text](https://github.com/CHC-Computations/BN-LIT-SKOS/blob/main/vocabs1.png?raw=true)
 ## Contributors
 
 **Institute of Literary Research of the Polish Academy of Sciences**, [www.ibl.waw.pl](https://ibl.waw.pl/)
